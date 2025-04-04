@@ -33,7 +33,7 @@ def main():
         elif choice == "2":
             view_tasks()
         elif choice == "3":
-            print("Goodbye! Stay healthy! 🌟")
+            print("Goodbye! Stay healthy!")
             break
         else:
             print("Invalid choice. Please try again.")
